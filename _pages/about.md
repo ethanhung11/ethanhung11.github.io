@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: portrait.png
+  image: website_image.jpeg
   image_circular: false # crops the image to make it circular
   # more_info: >
   # <p>555 your office number</p>
@@ -27,7 +27,10 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm Ethan Hung. I'm interested in using computational and bioinformatics tools to tackle questions in immunology and cancer.
+Hi there! Foodie & aspiring home chef, tennis player, and lover of all cozy games.
+
+I'm also a UCLA graduate interested in bioinformatics and immunology.
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
